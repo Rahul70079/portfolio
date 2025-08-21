@@ -48,8 +48,7 @@ You can view the live project here:
 If you’d like to connect or collaborate:  
 
 - GitHub: [Rahul70079](https://github.com/Rahul70079)  
-- LinkedIn: [Your LinkedIn Profile](
----
+- LinkedIn: [Your LinkedIn Profile] (https://www.linkedin.com/in/rahul-kumar7079/)
 
 ## 🚀 Deployment
 You can view the live project here:  
