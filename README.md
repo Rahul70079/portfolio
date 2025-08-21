@@ -41,8 +41,7 @@ portfolio/
 
 ## 🚀 Deployment
 You can view the live project here:  
-👉 [My Portfolio Live Link](https://your-username.github.io/Portfolio/)
-
+👉 [My Portfolio Live Link] http://127.0.0.1:5500/index.html
 ---
 
 ## 📬 Contact
